@@ -21,10 +21,12 @@ class GameScene : public QGraphicsScene
 
     public:
         GameScene();
+        ~GameScene();
 
         void setupStage();
 
         QTimer * timer60;
+        GameEngine * gameEngine;
 
     public slots:
         void updateWorld();
@@ -42,7 +44,7 @@ class GameScene : public QGraphicsScene
 
     private:
         Singleshot * singleshot;
-        GameEngine * gameEngine;
+
 
         b2World * physicWorld;
         b2Vec2 * gravity;

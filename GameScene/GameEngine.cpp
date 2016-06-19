@@ -47,7 +47,7 @@ void GameEngine::mousePressEvent(QGraphicsSceneMouseEvent *event)
 {
     if(event->button() == Qt::LeftButton)
     {
-        //qDebug()<<"you press left !";
+        qDebug()<<"you press left !";
 
         QPointF mousePos;
 
@@ -63,9 +63,9 @@ void GameEngine::mousePressEvent(QGraphicsSceneMouseEvent *event)
 
 void GameEngine::mouseReleaseEvent(QGraphicsSceneMouseEvent *event)
 {
-    if(event->button() == Qt::LeftButton)
+    if(event->button() == Qt::LeftButton&&leftButtonPressed == true)
     {
-        //qDebug()<<"you release left !";
+        qDebug()<<"you release left !";
 
         leftButtonPressed = false;
 
@@ -77,7 +77,7 @@ void GameEngine::mouseMoveEvent(QGraphicsSceneMouseEvent *event)
 {
     if(leftButtonPressed == true)
     {
-        //qDebug()<<"壓住了左鍵";
+        qDebug()<<"壓住了左鍵";
 
         QPointF mousePos;
 

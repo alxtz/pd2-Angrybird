@@ -20,7 +20,12 @@ class GameView : public QGraphicsView
 
     public slots:
         void setEndGameScene(int scoreGet , int birdUsed);
+        void setPlayAgain();
 
+        void exitGame();
+
+    signals:
+        void quitGame();
 };
 
 

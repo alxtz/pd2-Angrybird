@@ -4,6 +4,7 @@
 #include <QImage>
 #include <QDebug>
 #include <QObject>
+#include <QWidget>
 #include "./AbsClasses/GameItem.h"
 #include "./Birds/RedBird.h"
 #include "./Birds/YellowBird.h"
@@ -52,7 +53,7 @@ GameScene::GameScene()
     gameEngine->grabKeyboard ();
     gameEngine->grabMouse ();
 
-    connect(gameEngine , SIGNAL(getPullPos(int , int)) , singleshot , SLOT(pull(int , int)) );
+
     connect (gameEngine , SIGNAL(release())  , singleshot , SLOT(release()) );
     connect (gameEngine , SIGNAL(release())  , this , SLOT(releaseBird()) );
     connect (gameEngine , SIGNAL(useSpecialAbility()) , this , SLOT(useSpecialAbility()));
@@ -91,6 +92,13 @@ GameScene::GameScene()
     usedBird = 0;
 
     setupStage ();
+
+    connect(gameEngine , SIGNAL(getPullPos(int , int)) , singleshot , SLOT(pull(int , int)) );
+}
+
+GameScene::~GameScene()
+{
+
 }
 
 void GameScene::setupStage()

@@ -23,4 +23,10 @@ EndMenuScene::EndMenuScene(int scoreGet , int birdUsed)
     birdPic->setPixmap (QPixmap("./GameData/DefaultResources/Images/BirdImages/redBird.png"));
     birdPic->setPos (40 , 250);
     addItem(birdPic);
+
+    restartButton = new RestartButton();
+    addItem(restartButton);
+
+    leaveButton = new LeaveButton();
+    addItem(leaveButton);
 }

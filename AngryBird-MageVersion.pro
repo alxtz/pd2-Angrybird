@@ -36,7 +36,9 @@ SOURCES += main.cpp\
     GameScene/PlayScore.cpp \
     EndMenuScene/EndMenuScene.cpp \
     EndMenuScene/EndScore.cpp \
-    EndMenuScene/BirdUsedAmount.cpp
+    EndMenuScene/BirdUsedAmount.cpp \
+    EndMenuScene/RestartButton.cpp \
+    EndMenuScene/LeaveButton.cpp
 
 HEADERS  += MainWindow.h \
     GameView.h \
@@ -61,7 +63,9 @@ HEADERS  += MainWindow.h \
     GameScene/PlayScore.h \
     EndMenuScene/EndMenuScene.h \
     EndMenuScene/EndScore.h \
-    EndMenuScene/BirdUsedAmount.h
+    EndMenuScene/BirdUsedAmount.h \
+    EndMenuScene/RestartButton.h \
+    EndMenuScene/LeaveButton.h
 
 INCLUDEPATH += /usr/local/lib
 LIBS += -L /usr/local/lib/

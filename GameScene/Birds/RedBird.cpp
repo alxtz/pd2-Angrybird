@@ -1,4 +1,5 @@
 #include <QGraphicsScene>
+#include <QDebug>
 #include "RedBird.h"
 #include "../GameScene.h"
 
