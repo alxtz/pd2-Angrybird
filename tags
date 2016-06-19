@@ -1,0 +1,162 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+GameView	GameView.h	10;"	c	inherits:QGraphicsView
+GameView	GameView.h	15;"	p	class:GameView	access:public
+MainWindow	MainWindow.h	13;"	p	class:MainWindow	access:public
+MainWindow	MainWindow.h	8;"	c	inherits:QMainWindow
+data	moc_AbsBird.cpp	22;"	m	struct:qt_meta_stringdata_AbsBird_t	file:	access:public
+data	moc_BigBird.cpp	22;"	m	struct:qt_meta_stringdata_BigBird_t	file:	access:public
+data	moc_BirdUsedAmount.cpp	22;"	m	struct:qt_meta_stringdata_BirdUsedAmount_t	file:	access:public
+data	moc_Block_Vtl.cpp	22;"	m	struct:qt_meta_stringdata_Block_Vtl_t	file:	access:public
+data	moc_BlueBird.cpp	22;"	m	struct:qt_meta_stringdata_BlueBird_t	file:	access:public
+data	moc_CollisionListener.cpp	22;"	m	struct:qt_meta_stringdata_CollisionListener_t	file:	access:public
+data	moc_EndScore.cpp	22;"	m	struct:qt_meta_stringdata_EndScore_t	file:	access:public
+data	moc_GameEngine.cpp	22;"	m	struct:qt_meta_stringdata_GameEngine_t	file:	access:public
+data	moc_GameItem.cpp	22;"	m	struct:qt_meta_stringdata_GameItem_t	file:	access:public
+data	moc_GameScene.cpp	22;"	m	struct:qt_meta_stringdata_GameScene_t	file:	access:public
+data	moc_GameView.cpp	22;"	m	struct:qt_meta_stringdata_GameView_t	file:	access:public
+data	moc_LeaveButton.cpp	22;"	m	struct:qt_meta_stringdata_LeaveButton_t	file:	access:public
+data	moc_MainWindow.cpp	22;"	m	struct:qt_meta_stringdata_MainWindow_t	file:	access:public
+data	moc_Pig1.cpp	22;"	m	struct:qt_meta_stringdata_Pig1_t	file:	access:public
+data	moc_PlayScore.cpp	22;"	m	struct:qt_meta_stringdata_PlayScore_t	file:	access:public
+data	moc_RedBird.cpp	22;"	m	struct:qt_meta_stringdata_RedBird_t	file:	access:public
+data	moc_RestartButton.cpp	22;"	m	struct:qt_meta_stringdata_RestartButton_t	file:	access:public
+data	moc_Singleshot.cpp	22;"	m	struct:qt_meta_stringdata_Singleshot_t	file:	access:public
+data	moc_Stick.cpp	22;"	m	struct:qt_meta_stringdata_Stick_t	file:	access:public
+data	moc_Stick2_Hrz.cpp	22;"	m	struct:qt_meta_stringdata_Stick2_Hrz_t	file:	access:public
+data	moc_Stick2_Vtl.cpp	22;"	m	struct:qt_meta_stringdata_Stick2_Vtl_t	file:	access:public
+data	moc_Stick_Hrz.cpp	22;"	m	struct:qt_meta_stringdata_Stick_Hrz_t	file:	access:public
+data	moc_Stick_Vtl.cpp	22;"	m	struct:qt_meta_stringdata_Stick_Vtl_t	file:	access:public
+data	moc_YellowBird.cpp	22;"	m	struct:qt_meta_stringdata_YellowBird_t	file:	access:public
+endMenuScene	GameView.h	19;"	m	class:GameView	access:public
+exitGame	GameView.h	25;"	p	class:GameView	access:public
+gameScene	GameView.h	17;"	m	class:GameView	access:public
+gameView	MainWindow.h	17;"	m	class:MainWindow	access:private
+qt_meta_data_AbsBird	moc_AbsBird.cpp	50;"	v	file:
+qt_meta_data_BigBird	moc_BigBird.cpp	46;"	v	file:
+qt_meta_data_BirdUsedAmount	moc_BirdUsedAmount.cpp	41;"	v	file:
+qt_meta_data_Block_Vtl	moc_Block_Vtl.cpp	39;"	v	file:
+qt_meta_data_BlueBird	moc_BlueBird.cpp	46;"	v	file:
+qt_meta_data_CollisionListener	moc_CollisionListener.cpp	42;"	v	file:
+qt_meta_data_EndScore	moc_EndScore.cpp	41;"	v	file:
+qt_meta_data_GameEngine	moc_GameEngine.cpp	47;"	v	file:
+qt_meta_data_GameItem	moc_GameItem.cpp	41;"	v	file:
+qt_meta_data_GameScene	moc_GameScene.cpp	52;"	v	file:
+qt_meta_data_GameView	moc_GameView.cpp	47;"	v	file:
+qt_meta_data_LeaveButton	moc_LeaveButton.cpp	41;"	v	file:
+qt_meta_data_MainWindow	moc_MainWindow.cpp	39;"	v	file:
+qt_meta_data_Pig1	moc_Pig1.cpp	41;"	v	file:
+qt_meta_data_PlayScore	moc_PlayScore.cpp	42;"	v	file:
+qt_meta_data_RedBird	moc_RedBird.cpp	41;"	v	file:
+qt_meta_data_RestartButton	moc_RestartButton.cpp	41;"	v	file:
+qt_meta_data_Singleshot	moc_Singleshot.cpp	47;"	v	file:
+qt_meta_data_Stick	moc_Stick.cpp	41;"	v	file:
+qt_meta_data_Stick2_Hrz	moc_Stick2_Hrz.cpp	41;"	v	file:
+qt_meta_data_Stick2_Vtl	moc_Stick2_Vtl.cpp	41;"	v	file:
+qt_meta_data_Stick_Hrz	moc_Stick_Hrz.cpp	41;"	v	file:
+qt_meta_data_Stick_Vtl	moc_Stick_Vtl.cpp	41;"	v	file:
+qt_meta_data_YellowBird	moc_YellowBird.cpp	42;"	v	file:
+qt_meta_stringdata_AbsBird	moc_AbsBird.cpp	30;"	v	file:
+qt_meta_stringdata_AbsBird_t	moc_AbsBird.cpp	21;"	s	file:
+qt_meta_stringdata_BigBird	moc_BigBird.cpp	30;"	v	file:
+qt_meta_stringdata_BigBird_t	moc_BigBird.cpp	21;"	s	file:
+qt_meta_stringdata_BirdUsedAmount	moc_BirdUsedAmount.cpp	30;"	v	file:
+qt_meta_stringdata_BirdUsedAmount_t	moc_BirdUsedAmount.cpp	21;"	s	file:
+qt_meta_stringdata_Block_Vtl	moc_Block_Vtl.cpp	30;"	v	file:
+qt_meta_stringdata_Block_Vtl_t	moc_Block_Vtl.cpp	21;"	s	file:
+qt_meta_stringdata_BlueBird	moc_BlueBird.cpp	30;"	v	file:
+qt_meta_stringdata_BlueBird_t	moc_BlueBird.cpp	21;"	s	file:
+qt_meta_stringdata_CollisionListener	moc_CollisionListener.cpp	30;"	v	file:
+qt_meta_stringdata_CollisionListener_t	moc_CollisionListener.cpp	21;"	s	file:
+qt_meta_stringdata_EndScore	moc_EndScore.cpp	30;"	v	file:
+qt_meta_stringdata_EndScore_t	moc_EndScore.cpp	21;"	s	file:
+qt_meta_stringdata_GameEngine	moc_GameEngine.cpp	30;"	v	file:
+qt_meta_stringdata_GameEngine_t	moc_GameEngine.cpp	21;"	s	file:
+qt_meta_stringdata_GameItem	moc_GameItem.cpp	30;"	v	file:
+qt_meta_stringdata_GameItem_t	moc_GameItem.cpp	21;"	s	file:
+qt_meta_stringdata_GameScene	moc_GameScene.cpp	30;"	v	file:
+qt_meta_stringdata_GameScene_t	moc_GameScene.cpp	21;"	s	file:
+qt_meta_stringdata_GameView	moc_GameView.cpp	30;"	v	file:
+qt_meta_stringdata_GameView_t	moc_GameView.cpp	21;"	s	file:
+qt_meta_stringdata_LeaveButton	moc_LeaveButton.cpp	30;"	v	file:
+qt_meta_stringdata_LeaveButton_t	moc_LeaveButton.cpp	21;"	s	file:
+qt_meta_stringdata_MainWindow	moc_MainWindow.cpp	30;"	v	file:
+qt_meta_stringdata_MainWindow_t	moc_MainWindow.cpp	21;"	s	file:
+qt_meta_stringdata_Pig1	moc_Pig1.cpp	30;"	v	file:
+qt_meta_stringdata_Pig1_t	moc_Pig1.cpp	21;"	s	file:
+qt_meta_stringdata_PlayScore	moc_PlayScore.cpp	30;"	v	file:
+qt_meta_stringdata_PlayScore_t	moc_PlayScore.cpp	21;"	s	file:
+qt_meta_stringdata_RedBird	moc_RedBird.cpp	30;"	v	file:
+qt_meta_stringdata_RedBird_t	moc_RedBird.cpp	21;"	s	file:
+qt_meta_stringdata_RestartButton	moc_RestartButton.cpp	30;"	v	file:
+qt_meta_stringdata_RestartButton_t	moc_RestartButton.cpp	21;"	s	file:
+qt_meta_stringdata_Singleshot	moc_Singleshot.cpp	30;"	v	file:
+qt_meta_stringdata_Singleshot_t	moc_Singleshot.cpp	21;"	s	file:
+qt_meta_stringdata_Stick	moc_Stick.cpp	30;"	v	file:
+qt_meta_stringdata_Stick2_Hrz	moc_Stick2_Hrz.cpp	30;"	v	file:
+qt_meta_stringdata_Stick2_Hrz_t	moc_Stick2_Hrz.cpp	21;"	s	file:
+qt_meta_stringdata_Stick2_Vtl	moc_Stick2_Vtl.cpp	30;"	v	file:
+qt_meta_stringdata_Stick2_Vtl_t	moc_Stick2_Vtl.cpp	21;"	s	file:
+qt_meta_stringdata_Stick_Hrz	moc_Stick_Hrz.cpp	30;"	v	file:
+qt_meta_stringdata_Stick_Hrz_t	moc_Stick_Hrz.cpp	21;"	s	file:
+qt_meta_stringdata_Stick_Vtl	moc_Stick_Vtl.cpp	30;"	v	file:
+qt_meta_stringdata_Stick_Vtl_t	moc_Stick_Vtl.cpp	21;"	s	file:
+qt_meta_stringdata_Stick_t	moc_Stick.cpp	21;"	s	file:
+qt_meta_stringdata_YellowBird	moc_YellowBird.cpp	30;"	v	file:
+qt_meta_stringdata_YellowBird_t	moc_YellowBird.cpp	21;"	s	file:
+quitGame	GameView.h	28;"	p	class:GameView	access:public
+setEndGameScene	GameView.h	22;"	p	class:GameView	access:public
+setPlayAgain	GameView.h	23;"	p	class:GameView	access:public
+staticMetaObject	moc_AbsBird.cpp	93;"	m	class:AbsBird	file:
+staticMetaObject	moc_BigBird.cpp	86;"	m	class:BigBird	file:
+staticMetaObject	moc_BirdUsedAmount.cpp	76;"	m	class:BirdUsedAmount	file:
+staticMetaObject	moc_Block_Vtl.cpp	63;"	m	class:Block_Vtl	file:
+staticMetaObject	moc_BlueBird.cpp	100;"	m	class:BlueBird	file:
+staticMetaObject	moc_CollisionListener.cpp	96;"	m	class:CollisionListener	file:
+staticMetaObject	moc_EndScore.cpp	76;"	m	class:EndScore	file:
+staticMetaObject	moc_GameEngine.cpp	121;"	m	class:GameEngine	file:
+staticMetaObject	moc_GameItem.cpp	76;"	m	class:GameItem	file:
+staticMetaObject	moc_GameScene.cpp	121;"	m	class:GameScene	file:
+staticMetaObject	moc_GameView.cpp	104;"	m	class:GameView	file:
+staticMetaObject	moc_LeaveButton.cpp	86;"	m	class:LeaveButton	file:
+staticMetaObject	moc_MainWindow.cpp	63;"	m	class:MainWindow	file:
+staticMetaObject	moc_Pig1.cpp	76;"	m	class:Pig1	file:
+staticMetaObject	moc_PlayScore.cpp	76;"	m	class:PlayScore	file:
+staticMetaObject	moc_RedBird.cpp	76;"	m	class:RedBird	file:
+staticMetaObject	moc_RestartButton.cpp	86;"	m	class:RestartButton	file:
+staticMetaObject	moc_Singleshot.cpp	104;"	m	class:Singleshot	file:
+staticMetaObject	moc_Stick.cpp	76;"	m	class:Stick	file:
+staticMetaObject	moc_Stick2_Hrz.cpp	76;"	m	class:Stick2_Hrz	file:
+staticMetaObject	moc_Stick2_Vtl.cpp	76;"	m	class:Stick2_Vtl	file:
+staticMetaObject	moc_Stick_Hrz.cpp	76;"	m	class:Stick_Hrz	file:
+staticMetaObject	moc_Stick_Vtl.cpp	76;"	m	class:Stick_Vtl	file:
+staticMetaObject	moc_YellowBird.cpp	80;"	m	class:YellowBird	file:
+stringdata0	moc_AbsBird.cpp	23;"	m	struct:qt_meta_stringdata_AbsBird_t	file:	access:public
+stringdata0	moc_BigBird.cpp	23;"	m	struct:qt_meta_stringdata_BigBird_t	file:	access:public
+stringdata0	moc_BirdUsedAmount.cpp	23;"	m	struct:qt_meta_stringdata_BirdUsedAmount_t	file:	access:public
+stringdata0	moc_Block_Vtl.cpp	23;"	m	struct:qt_meta_stringdata_Block_Vtl_t	file:	access:public
+stringdata0	moc_BlueBird.cpp	23;"	m	struct:qt_meta_stringdata_BlueBird_t	file:	access:public
+stringdata0	moc_CollisionListener.cpp	23;"	m	struct:qt_meta_stringdata_CollisionListener_t	file:	access:public
+stringdata0	moc_EndScore.cpp	23;"	m	struct:qt_meta_stringdata_EndScore_t	file:	access:public
+stringdata0	moc_GameEngine.cpp	23;"	m	struct:qt_meta_stringdata_GameEngine_t	file:	access:public
+stringdata0	moc_GameItem.cpp	23;"	m	struct:qt_meta_stringdata_GameItem_t	file:	access:public
+stringdata0	moc_GameScene.cpp	23;"	m	struct:qt_meta_stringdata_GameScene_t	file:	access:public
+stringdata0	moc_GameView.cpp	23;"	m	struct:qt_meta_stringdata_GameView_t	file:	access:public
+stringdata0	moc_LeaveButton.cpp	23;"	m	struct:qt_meta_stringdata_LeaveButton_t	file:	access:public
+stringdata0	moc_MainWindow.cpp	23;"	m	struct:qt_meta_stringdata_MainWindow_t	file:	access:public
+stringdata0	moc_Pig1.cpp	23;"	m	struct:qt_meta_stringdata_Pig1_t	file:	access:public
+stringdata0	moc_PlayScore.cpp	23;"	m	struct:qt_meta_stringdata_PlayScore_t	file:	access:public
+stringdata0	moc_RedBird.cpp	23;"	m	struct:qt_meta_stringdata_RedBird_t	file:	access:public
+stringdata0	moc_RestartButton.cpp	23;"	m	struct:qt_meta_stringdata_RestartButton_t	file:	access:public
+stringdata0	moc_Singleshot.cpp	23;"	m	struct:qt_meta_stringdata_Singleshot_t	file:	access:public
+stringdata0	moc_Stick.cpp	23;"	m	struct:qt_meta_stringdata_Stick_t	file:	access:public
+stringdata0	moc_Stick2_Hrz.cpp	23;"	m	struct:qt_meta_stringdata_Stick2_Hrz_t	file:	access:public
+stringdata0	moc_Stick2_Vtl.cpp	23;"	m	struct:qt_meta_stringdata_Stick2_Vtl_t	file:	access:public
+stringdata0	moc_Stick_Hrz.cpp	23;"	m	struct:qt_meta_stringdata_Stick_Hrz_t	file:	access:public
+stringdata0	moc_Stick_Vtl.cpp	23;"	m	struct:qt_meta_stringdata_Stick_Vtl_t	file:	access:public
+stringdata0	moc_YellowBird.cpp	23;"	m	struct:qt_meta_stringdata_YellowBird_t	file:	access:public
+~MainWindow	MainWindow.h	14;"	p	class:MainWindow	access:public

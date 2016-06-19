@@ -1,0 +1,13 @@
+When you enter the game , a bird apears at the center of your singleshot . 
+To shoot it , first drag the bird , you'll notice that there's a rubber band streching accordingly . Then you're able to release the bird at some position , it will receive a force by the drag length , and angle .
+
+The main goal of the game is to kill all the pigs , pigs can only be hurt by birds.(once you kill all the pigs , the program will direct you to the result scene)
+
+Notice that the bird and the sticks both have health , don't abuse you bird too much!
+
+there are several ways to restart or leave the game , when you're in the game scene , press esc or kill all the pigs will do so.
+
+when you're in the result scene , just check out the two buttons at the bottom.
+
+
+

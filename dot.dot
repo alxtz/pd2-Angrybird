@@ -1,0 +1,5 @@
+graph G {
+	QGraphicsView -- GameView;
+	QMainWindow -- MainWindow;
+}
+
